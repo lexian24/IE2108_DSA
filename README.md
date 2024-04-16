@@ -1,14 +1,13 @@
 # IE2108_DSA
 DSA consist of 
-
-DatA Structure --
+### DatA Structure
     Stack and Queue
     Tree 
     Heaps
     Binary Search Tree
     Merge Sort
     Heap Sort
-Search algorithm --
+### Search algorithm
     Breath first search
     Depth first search
     Greedy
